@@ -1,4 +1,4 @@
-<img align="Middle" alt="Coding" width="1100" src="https://www.datasciencecentral.com/wp-content/uploads/2022/02/visu.png">
+<img align="Middle" alt="Coding" width="1200" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif">
 
 <h1 align="center">Hi 👋, I'm Basanta Dulal</h1>
 <h3 align="center">A passionate Data Analyst from Canada</h3>
