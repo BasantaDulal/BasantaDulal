@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 
-- 💬 Ask me about **SQL, Python, Power BI and Tableau**
+- 💬 Ask me about **Excel, SQL, Python, Power BI and Tableau**
 
 - 📫 How to reach me **basantdulal@gmail.com**
 
